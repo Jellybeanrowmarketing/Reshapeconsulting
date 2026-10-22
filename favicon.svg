@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Reshape favicon">
+<rect width="200" height="200" rx="34" fill="#07273B"></rect>
+<circle cx="100" cy="100" r="80" fill="none" stroke="#C99F5C" stroke-width="3.5"></circle>
+<circle cx="100" cy="100" r="66" fill="none" stroke="#C99F5C" stroke-width="1.6"></circle>
+<polygon points="166,95 171,100 166,105 161,100" fill="#C99F5C"></polygon>
+<polygon points="34,95 39,100 34,105 29,100" fill="#C99F5C"></polygon>
+<text x="100" y="107" font-family="Cormorant Garamond, Georgia, serif" font-weight="700" font-size="112" fill="#C99F5C" text-anchor="middle" dominant-baseline="middle">R</text>
+</svg>
